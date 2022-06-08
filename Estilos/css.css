@@ -216,23 +216,7 @@
         width: 100%;
     }
 
-    ul{
-        list-style:none  ;
-        display: flex;
-        justify-content: center;
-        margin-top: 15px;
-    }
-    li{
-        display: inline-block;
-        
-    }
     
-    .menu a{
-        text-decoration: none;
-        color: aliceblue;
-        font-size: 18px;
-        margin: 35px;
-    }
 
     .sec_1{
         display: flex;
