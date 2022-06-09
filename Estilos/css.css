@@ -129,6 +129,9 @@
        justify-content: space-around;
 
    }
+   .card{
+    background-color: black;
+}
     
 
 
@@ -252,4 +255,7 @@
        justify-content: space-evenly;
 
    }
+  .card{
+      background-color: black;
+  }
 }
